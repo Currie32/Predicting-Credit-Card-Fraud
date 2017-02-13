@@ -5,7 +5,7 @@
 
 # The goal for this analysis is to predict credit card fraud in the transactional data. I will be using tensorflow to build the predictive model, and t-SNE to visualize the dataset in two dimensions at the end of this analysis. If you would like to learn more about the data, visit: https://www.kaggle.com/dalpozz/creditcardfraud. 
 # 
-# The sections of this analysis include: Exploring the Data, Building the Neural Network, Visualizing the Data with t-SNE, and Summary.
+# The sections of this analysis include: Exploring the Data, Building the Neural Network, and Visualizing the Data with t-SNE.
 
 # In[4]:
 
