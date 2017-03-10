@@ -3,4 +3,4 @@ Used TensorFlow to build a neural network that can predict fraudulent credit car
 
 To view my analysis most easily, click on the .ipynb file.
 
-If you would like to learn more about this data, or download it yourself, view: https://www.kaggle.com/dalpozz/creditcardfraud/kernels
+If you would like to learn more about this data, or download it yourself, visit: https://www.kaggle.com/dalpozz/creditcardfraud/kernels
